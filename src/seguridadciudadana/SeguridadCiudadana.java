@@ -6,6 +6,7 @@ package seguridadciudadana;
 
 import Pantallas.Inicio;
 
+
 /**
  *
  * @author giane
@@ -18,6 +19,8 @@ public class SeguridadCiudadana {
         ini.setVisible(true);
         
         ini.setLocationRelativeTo(null);
+        
+        
         
     }
     
